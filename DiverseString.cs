@@ -12,8 +12,7 @@ public class DiverseString {
 			if (aCount >= 2) {
 				diverseString += "aa";
 				aCount -= 2;
-			}
-			else if (aCount == 1) {
+			} else if (aCount == 1) {
 				diverseString += 'a';
 				aCount--;
 			}
@@ -21,8 +20,7 @@ public class DiverseString {
 			if (bCount >= 2) {
 				diverseString += "bb";
 				bCount -= 2;
-			}
-			else if (bCount == 1) {
+			} else if (bCount == 1) {
 				diverseString += 'b';
 				bCount--;
 			}
@@ -32,8 +30,7 @@ public class DiverseString {
 			if (cCount >= 2) {
 				diverseString += "cc";
 				cCount -= 2;
-			}
-			else if (cCount == 1) {
+			} else if (cCount == 1) {
 				diverseString += 'c';
 				cCount--;
 			}
